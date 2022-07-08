@@ -21,8 +21,8 @@ Note that instead of cloning this repository, you can reproduce it by following 
 - Add the "@tauri-apps/api" npm package
 - Select `svelte-ts` as your vite template
 - Go into your folder, and modify the following files:
-  - In `src-tauri.tauri.conf.json` change the `"identifier"` parameter (intially set as `"com.tauri.dev"`) to something else, of your choice
-  - In `src-tauri.tauri.conf.json` change the `"distDir"` parameter (intially set as `"../dist"`) to `"../public"`
+  - In `src-tauri/tauri.conf.json` change the `"identifier"` parameter (intially set as `"com.tauri.dev"`) to something else, of your choice
+  - In `src-tauri/tauri.conf.json` change the `"distDir"` parameter (intially set as `"../dist"`) to `"../public"`
 
 You are now ready to experiment with the incredibly promising framework that is Tauri, with the best frontend out there (😉), Svelte!
 
