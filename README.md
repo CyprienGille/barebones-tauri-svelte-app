@@ -1,4 +1,4 @@
-![tauri logo](https://github.com/CyprienGille/barebones-tauri-svelte-app/blob/main/src-tauri/icons/icon.ico)
-![svelte logo](https://github.com/CyprienGille/barebones-tauri-svelte-app/blob/main/src/assets/svelte.png)
+<img src="src-tauri/icons/icon.ico" width=256 height=256>
+<img src="src/assets/svelte.png" width=256 height=256>
 
 # Tauri app with a Svelte frontend
